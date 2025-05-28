@@ -12,7 +12,5 @@ Repositori ini digunakan untuk latihan Git mata kuliah Metode Pengembangan Peran
 5. **Push ke fork Anda**
 6. **Buat Pull Request (PR)** dari GitHub
 
-# Ini WM
-![Ini WM][wm]
 
-[wm]: https://teknohole.com/static/assets/images/Teknohole.png
+#ini testing
